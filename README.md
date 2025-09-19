@@ -55,7 +55,6 @@ python mapviewer.py
 | `LICENSE` | مجوز استفاده از نرم‌افزار |
 | `requirements.txt` | لیست کتابخانه‌های مورد نیاز |
 | `.gitignore` | جلوگیری از کامیت فایل‌های بی‌ربط |
-| `history.json` | (اختیاری) نمونه‌ای از تاریخچه مکان‌ها |
 | `assets/screenshot/main-ui.png` | تصویر محیط برنامه |
 
 ---
@@ -114,7 +113,6 @@ python mapviewer.py
 | `LICENSE` | Software license |
 | `requirements.txt` | Dependency list |
 | `.gitignore` | Prevents committing unnecessary files |
-| `history.json` | (Optional) Sample location history |
 | `assets/screenshot/main-ui.png` | App screenshot image |
 
 ---
